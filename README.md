@@ -28,39 +28,39 @@ Input:
 
 ## Landscape 
 Input:
-> Captivating landscape
+> Captivating landscape high-resolutions hyperdetailed
 
 ## Scenery
 Input: 
->Astounding scenery
+>Astounding scenery high-resolutions hyperdetailed
 
 ## Sunset
 Input: 
->Astonishing sunset
+>Astonishing sunset high-resolutions hyperdetailed
 
 ## Waterfall
 Input: 
->Extraordinary waterfall
+>Extraordinary waterfall high-resolutions hyperdetailed
 
 ## Maountain
 Input: 
->Phenomenal mountain
+>Phenomenal mountain high-resolutions hyperdetailed
 
 ## Ocean
 Input: 
->Jaw-dropping ocean
+>Jaw-dropping ocean high-resolutions hyperdetailed
 
 ## Adventure
 Input: 
->Mind-blowing adventure
+>Mind-blowing adventure high-resolutions hyperdetailed
 
 ## Sky
 Input: 
->Striking sky
+>Striking sky high-resolutions hyperdetailed
 
 ## Reflection
 Input: 
->Incredible reflection
+>Incredible reflection high-resolutions hyperdetailed
 
 ## Eyes 👁
 Input:
