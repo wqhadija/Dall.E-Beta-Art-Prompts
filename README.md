@@ -73,9 +73,9 @@ Credit: PatorikuArt
 
 ## Mythical Creature
 Input:
-Mermaid queen
+>Mermaid queen
 
 ## Woman/ Character
 Input:
-Silver haired angelic young woman, buxom, beautiful skin, elegant, sexy, waist-up portrait, johan grenier, digital painting, cinema 4d, hyperrealism, beautiful, radiant, ominous, photorealistic, wlop
+>Silver haired angelic young woman, buxom, beautiful skin, elegant, sexy, waist-up portrait, johan grenier, digital painting, cinema 4d, hyperrealism, beautiful, radiant, ominous, photorealistic, wlop
 credit: GarretMyers
