@@ -89,4 +89,6 @@ Example:
 >![image](https://user-images.githubusercontent.com/123232845/213969200-1f712c18-51ab-43cd-b469-d028eb926ca6.png)
 
 Input: 
->beautiful extraordinary modern interior design hyper-detailed
+>beautiful extraordinary modern interior 
+
+Refer artworks: [Visit here for nature](https://www.pexels.com/@wqhadija-m-1759004/) and [for interior design](https://unsplash.com/@wqhadija)
