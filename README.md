@@ -118,3 +118,8 @@ Input:
 >beautiful extraordinary modern interior 
 
 Refer artworks: [Visit here for nature](https://www.pexels.com/@wqhadija-m-1759004/) and [for interior design](https://unsplash.com/@wqhadija)
+
+## Cover book
+Input:
+>attention-grabbing cover idea for "Untitled: The story behind her eyes".
+
