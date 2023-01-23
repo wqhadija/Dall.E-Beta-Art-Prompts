@@ -5,6 +5,9 @@ First thank you for puchased my a low-grade [Ebook](https://shope.ee/2L00bErgiQ?
 
 [Artworks mania for more detailed hover the clicks over here](https://openart.ai/) this down below only the basic, quick.
 
+Input:
+>8k resolution concept art, dynamic lighting hyperdetailed intricately detailed, I use Beta.Character.Ai
+
 Keywords:
  1. Stunning
  2. Breathtaking
