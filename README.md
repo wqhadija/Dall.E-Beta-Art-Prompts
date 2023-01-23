@@ -79,3 +79,11 @@ Input:
 Input:
 >Silver haired angelic young woman, buxom, beautiful skin, elegant, sexy, waist-up portrait, johan grenier, digital painting, cinema 4d, hyperrealism, beautiful, radiant, ominous, photorealistic, wlop
 credit: GarretMyers
+
+## Interior Design
+
+Example:
+>![image](https://user-images.githubusercontent.com/123232845/213969200-1f712c18-51ab-43cd-b469-d028eb926ca6.png)
+
+Input: 
+>beautiful extraordinary modern interior design hyper-detailed
