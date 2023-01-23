@@ -3,6 +3,8 @@ Keep your mind sharp and your nerves on edge with this mysterious prompt that wi
 
 First thank you for puchased my a low-grade [Ebook](https://shope.ee/2L00bErgiQ?share_channel_code=2)
 
+[Artworks mania for more detailed hover the clicks over here](https://openart.ai/) this down below only the basic, quick.
+
 Keywords:
  1. Stunning
  2. Breathtaking
@@ -29,28 +31,36 @@ Input:
 > Captivating landscape
 
 ## Scenery
-Input:
+Input: 
+>Astounding scenery
 
 ## Sunset
-Input:
+Input: 
+>Astonishing sunset
 
 ## Waterfall
-Input:
+Input: 
+>Extraordinary waterfall
 
 ## Maountain
-Input:
+Input: 
+>Phenomenal mountain
 
 ## Ocean
-Input:
+Input: 
+>Jaw-dropping ocean
 
 ## Adventure
-Input:
+Input: 
+>Mind-blowing adventure
 
 ## Sky
-Input:
-
-## Refelction
 Input: 
+>Striking sky
+
+## Reflection
+Input: 
+>Incredible reflection
 
 ## Eyes 👁
 Input:
