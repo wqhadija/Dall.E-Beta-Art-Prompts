@@ -70,3 +70,6 @@ Input:
 Input:
 >feminine cyborg goddess rendered in Cinema 4D, elegant ornate futuristic silk robes, thousands of wires in pristine white scifi room. glowing white neon eyes, tron lighting, platinum obsidian flowing long hair, by Artgerm and Mucha, hyperrealism
 
+## Mythical Creature
+Input:
+Mermaid queen
