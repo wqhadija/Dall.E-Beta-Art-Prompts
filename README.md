@@ -128,4 +128,4 @@ Input:
 
 ## Photo advert
 Input:
-> attention-grabbing photo ads product dietary supplement for IQ and brain health ideas
+> attention-grabbing photo ads product [dietary supplement for IQ and brain health] ideas
