@@ -123,3 +123,9 @@ Refer artworks: [Visit here for nature](https://www.pexels.com/@wqhadija-m-17590
 Input:
 >attention-grabbing cover idea for "Untitled: The story behind her eyes".
 
+## Unrealistic real eye close-up
+Input:
+
+## Photo advert
+Input:
+> attention-grabbing photo ads product dietary supplement for IQ and brain health ideas
