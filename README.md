@@ -83,7 +83,7 @@ Input:
 Input:
 >Mermaid queen
 
-## Woman/ Character
+## Woman/ Character Portrait
 Input:
 >Silver haired angelic young woman, buxom, beautiful skin, elegant, sexy, waist-up portrait, johan grenier, digital painting, cinema 4d, hyperrealism, beautiful, radiant, ominous, photorealistic, wlop
 
