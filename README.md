@@ -72,6 +72,7 @@ Input:
 ## Cyborg
 Input:
 >feminine cyborg goddess rendered in Cinema 4D, elegant ornate futuristic silk robes, thousands of wires in pristine white scifi room. glowing white neon eyes, tron lighting, platinum obsidian flowing long hair, by Artgerm and Mucha, hyperrealism
+
 Credit: PatorikuArt
 
 ## Animal
@@ -85,22 +86,27 @@ Input:
 ## Woman/ Character
 Input:
 >Silver haired angelic young woman, buxom, beautiful skin, elegant, sexy, waist-up portrait, johan grenier, digital painting, cinema 4d, hyperrealism, beautiful, radiant, ominous, photorealistic, wlop
+
 credit: GarretMyers
 
 Input:
 >Beautiful Mecanician Forger In Fantasy Atelier Lab, Fantasy Art, Johan Grenier, Leesha Hannigan, Reyna Rochin, Fine Details, Perfect Face, Lacey, Mesmerizing, Magnificent, Hyper Detailed, Glow Eyes And Golden Makeup, Colorful, Glowing Eyes, Hd Photography, , Hyperdetailed
->credit: Javna
+
+credit: Javna
 
 Input:
 >Full body shot, gorgeous a-line dress, highres, braided hair, brown hair, perfect body, perfect face, stunning beautiful Anna from “Frozen”, radiant colors, volumetric lighting, micro details, cinematic lighting and shadows, Jeremy Lipking, Antonio J. Manzanedo
+
 credit: prometheus
 
 Input:
 >portrait of a warrior, pixar, digital painting, full color, anime eyes, pretty face, fantasy, illustration, sharp focus, dramatic lighting, smooth, trending on artstation, 8k, concept art, raytracing, elegant, reflections, art style from artgerm and wlop and alphonse mucha and greg rutkowski
+
 credit: PatorikuArt
 
 Input:
 >beaten ( bruised) woman with beautiful eyes and messy brown hair, walking in wilderness , ((torn clothes)), ((tattered clothes)), perfect face, ((long legs)), ((muddy)), realistic focus, anime character, detailed, (((full body shot))), head to toe, model,((afraid)), ambient lighting, photographic, 8K
+
 credit: BasilOregano
 
 ## Interior Design
