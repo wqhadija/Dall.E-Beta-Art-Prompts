@@ -42,7 +42,7 @@ Input:
 Input: 
 >Extraordinary waterfall high-resolutions hyperdetailed
 
-## Maountain
+## Mountain
 Input: 
 >Phenomenal mountain high-resolutions hyperdetailed
 
