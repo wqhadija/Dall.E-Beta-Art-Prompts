@@ -3,7 +3,7 @@ Keep your mind sharp and your nerves on edge with this mysterious prompt that wi
 
 First thank you for puchased my a low-grade [Ebook](https://shope.ee/2L00bErgiQ?share_channel_code=2)
 
-[Artworks mania for more detailed hover the clicks over here](https://openart.ai/) this down below only the basic, quick.
+[Artworks mania for more detailed hover the clicks over here](https://openart.ai/) this down below only the basic, quick. [Midjourney details](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 
 Input:
 >8k resolution concept art, dynamic lighting hyperdetailed intricately detailed.
