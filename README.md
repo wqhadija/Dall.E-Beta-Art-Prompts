@@ -153,3 +153,6 @@ celebrating your friendship.
 > 9 A sticker featuring your favorite movie or TV show character, perfect for showing off your fandom.
 
 > 10 A sparkly sticker featuring a unique design, adding a touch of glamour to any surface.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8CVBQA)
+
