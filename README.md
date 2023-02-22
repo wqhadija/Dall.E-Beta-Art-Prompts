@@ -129,3 +129,27 @@ Input:
 ## Photo advert
 Input:
 > attention-grabbing photo ads product [dietary supplement for IQ and brain health] ideas
+
+## Sticker for Keychain Prompts
+You can use AI-generated image to see the visual like [Wombo](https://dream.ai/), etc.
+
+> 1 A colorful sticker featuring a cute cartoon animal, personalized with your name.
+
+> 2 A holographic sticker with an inspiring quote, perfect for decorating your laptop or phone.
+
+> 3 A minimalist sticker with a trendy design, showcasing your love for a particular hobby or interest.
+
+> 4 A weather-resistant sticker with your favorite band's logo, perfect for showing off your music taste on your car or skateboard.
+
+> 5 A personalized sticker with a custom illustration of you and your best friend, 
+celebrating your friendship.
+
+> 6 A retro-inspired sticker featuring a vintage logo, perfect for adding a touch of nostalgia to your belongings.
+
+> 7 A sticker with a funny pun or joke, guaranteed to make people laugh when they see it.
+
+> 8 A motivational sticker featuring an empowering message, reminding you to stay positive and focused.
+
+> 9 A sticker featuring your favorite movie or TV show character, perfect for showing off your fandom.
+
+> 10 A sparkly sticker featuring a unique design, adding a touch of glamour to any surface.
