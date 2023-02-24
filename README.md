@@ -199,5 +199,28 @@ Input:
 
 >Write me a creative [reflection] photo inspiration
 
+## Photo Prompts Idea
+Input:
+>Write me a creative photo art idea
+
+>Write me a dramatic photo art idea
+
+>Write me a whimsical photo art idea
+
+>Write me a surreal photo art idea
+
+>Write me a futuristic photo art idea
+
+>Write me a nostalgic photo art idea
+
+>Write me a minimalist photo art idea
+
+>Write me a romantic photo art idea
+
+>Write me a haunting photo art idea
+
+>Write me a dreamy photo art idea
+
+Support 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8CVBQA)
 
