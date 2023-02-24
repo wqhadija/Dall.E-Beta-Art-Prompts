@@ -176,5 +176,28 @@ Input:
 
 >Write me a set of photo art ideas that are inspired by abstract art.
 
+## Photography Ideas
+Input:
+
+>Write me a visually striking [nature-themed] photo idea
+
+>Write me an unusual [portrait] photo concept
+
+>Write me a surreal [urban landscape] photo suggestion
+
+>Write me a vibrant [street art] photo inspiration
+
+>Write me a moody [black and white] photo concept
+
+>Write me an ethereal [waterfall] photo idea
+
+>Write me a playful [animal] photo suggestion
+
+>Write me a dramatic [cityscape] photo concept
+
+>Write me a minimalist [abstract] photo idea
+
+>Write me a creative [reflection] photo inspiration
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8CVBQA)
 
