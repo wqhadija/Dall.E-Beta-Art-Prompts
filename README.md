@@ -154,5 +154,27 @@ celebrating your friendship.
 
 > 10 A sparkly sticker featuring a unique design, adding a touch of glamour to any surface.
 
+## Photo Art Ideas
+Input:
+>Write me a list of creative ways to incorporate shadows in a photo art piece.
+
+>Write me a set of photo art ideas inspired by nature.
+
+>Write me a list of photo art ideas that feature urban landscapes.
+
+>Write me a list of photo art ideas that play with perspective and depth.
+
+>Write me a list of photo art ideas that use reflection as a key element.
+
+>Write me a set of photo art ideas that explore symmetry and asymmetry.
+
+>Write me a list of photo art ideas that involve movement and motion blur.
+
+>Write me a set of photo art ideas that use color as a key element.
+
+>Write me a list of photo art ideas that involve the manipulation of light sources.
+
+>Write me a set of photo art ideas that are inspired by abstract art.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8CVBQA)
 
